@@ -19,7 +19,7 @@
     <filter_condition/>
     <is_rest>false</is_rest>
     <message/>
-    <name>test</name>
+    <name>test-uat</name>
     <order>100</order>
     <priority>100</priority>
     <rest_method/>
@@ -31,7 +31,7 @@
     <script/>
     <sys_class_name>sys_script</sys_class_name>
     <sys_created_by>admin</sys_created_by>
-    <sys_created_on>2022-06-17 16:04:23</sys_created_on>
+    <sys_created_on>2022-06-17 16:06:49</sys_created_on>
     <sys_domain>global</sys_domain>
     <sys_domain_path>/</sys_domain_path>
     <sys_effective/>
@@ -44,7 +44,7 @@
     <sys_scope>8695a67c6573432895b55a2f0d7c47e3</sys_scope>
     <sys_update_name/>
     <sys_updated_by>admin</sys_updated_by>
-    <sys_updated_on>2022-06-17 16:05:16</sys_updated_on>
+    <sys_updated_on>2022-06-17 16:15:05</sys_updated_on>
     <template/>
     <when>before</when>
   </sys_script>

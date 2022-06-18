@@ -12,10 +12,11 @@
     <name>测试客户端脚本1</name>
     <order>100</order>
     <script>alert("11");
-alert("22");</script>
+alert("22");
+alert("333");</script>
     <sys_class_name>sys_script_client</sys_class_name>
     <sys_created_by>admin</sys_created_by>
-    <sys_created_on>2022-06-17 22:19:00</sys_created_on>
+    <sys_created_on>2022-06-17 21:34:33</sys_created_on>
     <sys_domain>global</sys_domain>
     <sys_domain_path>/</sys_domain_path>
     <sys_effective/>
@@ -28,7 +29,7 @@ alert("22");</script>
     <sys_scope>86aa7a3d7c454135ab1399b8e8b9330f</sys_scope>
     <sys_update_name/>
     <sys_updated_by>admin</sys_updated_by>
-    <sys_updated_on>2022-06-17 23:18:06</sys_updated_on>
+    <sys_updated_on>2022-06-18 09:34:40</sys_updated_on>
     <table>sys_user_has_role</table>
     <type>onLoad</type>
     <ui_type>0</ui_type>

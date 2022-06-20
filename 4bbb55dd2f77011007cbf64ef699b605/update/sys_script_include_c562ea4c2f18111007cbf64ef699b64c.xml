@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_744525_ch.test777</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test777</name>
+        <script><![CDATA[var test777 = Class.create();
+test777.prototype = {
+    initialize: function() {
+    },
+
+    type: 'test777'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 13:59:33</sys_created_on>
+        <sys_id>c562ea4c2f18111007cbf64ef699b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test777</sys_name>
+        <sys_package display_value="ch" source="x_744525_ch">4bbb55dd2f77011007cbf64ef699b605</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ch">4bbb55dd2f77011007cbf64ef699b605</sys_scope>
+        <sys_update_name>sys_script_include_c562ea4c2f18111007cbf64ef699b64c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 13:59:33</sys_updated_on>
+    </sys_script_include>
+</record_update>

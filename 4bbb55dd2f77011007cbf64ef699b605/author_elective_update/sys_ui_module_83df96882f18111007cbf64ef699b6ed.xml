@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="test">7c6874f02f81411007cbf64ef699b679</application>
+        <filter/>
+        <name>tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_744525_ch.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 13:48:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>83df96882f18111007cbf64ef699b6ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="ch" source="x_744525_ch">4bbb55dd2f77011007cbf64ef699b605</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ch">4bbb55dd2f77011007cbf64ef699b605</sys_scope>
+        <sys_update_name>sys_ui_module_83df96882f18111007cbf64ef699b6ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 13:48:21</sys_updated_on>
+        <table>x_744525_ch_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ch">4bbb55dd2f77011007cbf64ef699b605</application>
+        <file_path/>
+        <instance_id>fc98ef6fdbd7d3448264f70fbf961973</instance_id>
+        <instance_name>dev66197</instance_name>
+        <name>sys_ui_module_83df96882f18111007cbf64ef699b6ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="test">7c6874f02f81411007cbf64ef699b679</application><filter/><name>tests</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_744525_ch.test_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-20 13:48:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>83df96882f18111007cbf64ef699b6ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>tests</sys_name><sys_package display_value="ch" source="x_744525_ch">4bbb55dd2f77011007cbf64ef699b605</sys_package><sys_policy/><sys_scope display_value="ch">4bbb55dd2f77011007cbf64ef699b605</sys_scope><sys_update_name>sys_ui_module_83df96882f18111007cbf64ef699b6ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-20 13:48:21</sys_updated_on><table>x_744525_ch_test</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-277733642</payload_hash>
+        <record_name>tests</record_name>
+        <reverted_from/>
+        <source>c3bb55dd2f77011007cbf64ef699b608</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 13:48:21</sys_created_on>
+        <sys_id>07df96882f18111007cbf64ef699b6f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181815f17e30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 13:48:21</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4fdf9688f3181110087f3882a18af0ef</update_guid>
+        <update_guid_history>4fdf9688f3181110087f3882a18af0ef:-277733642</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 13:54:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>5b967fe2ccaf4778b0cefab5f8618840</sys_id>
+        <sys_metadata>83df96882f18111007cbf64ef699b6ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="ch" source="x_744525_ch">4bbb55dd2f77011007cbf64ef699b605</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ch">4bbb55dd2f77011007cbf64ef699b605</sys_scope>
+        <sys_scope_delete display_value="">22d7f4b569ed4f59a409eb98b8c0e519</sys_scope_delete>
+        <sys_update_name>sys_ui_module_83df96882f18111007cbf64ef699b6ed</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_83df96882f18111007cbf64ef699b6ed">07df96882f18111007cbf64ef699b6f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 13:54:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
